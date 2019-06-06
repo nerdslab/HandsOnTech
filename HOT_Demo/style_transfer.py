@@ -247,18 +247,18 @@ def preprocess_batch(batch):
 
 def magic_box(content_image, style_image, out_name, workingdir,cff,sff):
     if cff:
-        content_image = tensor_load_rgbimage('{}\\images\\content\\{}'.format(workingdir, content_image), size=512,
+        content_image = tensor_load_rgbimage(workingdir+'images/content/'+content_image, size=512,
                                          keep_asp=True).unsqueeze(0)
     else:
         content_image = tensor_load_rgbimage2(content_image,size=512,keep_asp=True).unsqueeze(0)
     
     if sff:
-        style = tensor_load_rgbimage('{}\\images\\21styles\\{}'.format(workingdir, style_image), size=512).unsqueeze(0)
+        style = tensor_load_rgbimage(workingdir+'images/21styles/'+style_image, size=512).unsqueeze(0)
     else:
         style = tensor_load_rgbimage2(content_image,size=512).unsqueeze(0)
     style = preprocess_batch(style)
 
-    state_dict = torch.load('{}\\21styles.model'.format(workingdir))
+    state_dict = torch.load(workingdir+'/21styles.model')
     state_dict.pop('model1.1.running_mean', 'None')
     state_dict.pop('model1.1.running_var', 'None')
     for i in [3, 4]:
