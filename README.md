@@ -1,4 +1,5 @@
-# Hands-on-Tech (HOT) Machine Learning Module
+# Hands-on-Tech (HOT) Days @ Georgia Tech Day Camp - Machine Learning Module
+
 
 ### Overview of concepts
 - _Image manipulation:_ Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
