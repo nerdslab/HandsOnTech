@@ -41,4 +41,4 @@ ________________________________________
 - Erik Jorgensen (ejorgensen7@gatech.edu)
 
 
-![](https://gph.is/g/E008Qmy)
+![](https://media.giphy.com/media/PnOn75TVHOdVFhYj7y/giphy.gif)
