@@ -39,3 +39,6 @@ ________________________________________
 - Max Dabagia (maxdabagia@gatech.edu) 
 - Eva Dyer (evadyer@gatech.edu)
 - Erik Jorgensen (ejorgensen7@gatech.edu)
+
+
+![alt text](https://www.dropbox.com/s/8eeza75pcvn3rea/Aurora-gif.gif?dl=0)
