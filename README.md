@@ -1,7 +1,9 @@
 # Hands-on-Tech (HOT) Machine Learning Module
 
-**Instructors:** Mark Davenport (ECE) & Eva Dyer (BME, ECE; evadyer@gatech.edu)<br>
-**Teaching assistants:** Aishwarya Balwani (Grad-ECE), Max Dabagia (Undergrad-ECE), Erik Jorgensen (Grad-ECE)
+### Overview of concepts
+- Image manipulation: Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
+- Image convolution: Show how using different kernels can do interesting things to an image (e.g. blur, edge detection, etc)
+- Style transfer: the aim is to show students how neural networks can transform an input image to be in the style of a certain artist
 
 ### Schedule
 - 15 minutes: setup - introduction to data science and machine learning
@@ -12,11 +14,6 @@
   - work on mini-project (60 min)
 - 15 minutes: compiling results and images, creating small exhibit of your art and creations!
 - 15 minutes: see-and-share other students’ galleries!
-
-### Overview of concepts
-- Image manipulation: Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
-- Image convolution: Show how using different kernels can do interesting things to an image (e.g. blur, edge detection, etc)
-- Style transfer: the aim is to show students how neural networks can transform an input image to be in the style of a certain artist
 
 ### Ideas for mini-projects (questions to explore):
 - What if you add noise to an image and then apply style transfer? How will model interact with different types of objects/ artifacts added to your image?
@@ -32,3 +29,10 @@ ________________________________________
 
 **[Click here to learn how to run this notebook in Google Colaboratory](https://docs.google.com/document/d/1ILbefxjt_mY8vE4lt_iqjOldU0poZB4gw9qphEWLOck/edit?usp=sharing)**
 
+________________________________________
+
+**Contributors:**
+- Aishwarya Balwani (abalwani6@gatech.edu) 
+- Max Dabagia (maxdabagia@gatech.edu) 
+- Eva Dyer (evadyer@gatech.edu)
+- Erik Jorgensen (ejorgensen7@gatech.edu)
