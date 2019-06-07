@@ -1,5 +1,7 @@
 # Hands-on-Tech (HOT) Days @ Georgia Tech Day Camp - Machine Learning Module
 
+_Instructors:_ Mark Davenport (ECE) & Eva Dyer (evadyer@gatech.edu)<br>
+_Teaching assistants:_ Aishwarya Balwani, Max Dabagia, Erik Jorgensen
 
 ### Overview of concepts
 - _Image manipulation:_ Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
@@ -7,14 +9,14 @@
 - _Style transfer:_ the aim is to show students how neural networks can transform an input image to be in the style of a certain artist
 
 ### Schedule
-- 15 minutes: setup - introduction to data science and machine learning
-- 30 minutes: walking through each cell of the notebook (image processing, filtering, neural net example = your own photoshop)
-- 1 hour, 30 minutes: mini-projects
-  - explore notebook, play with variables and parameters (15 min)
-  - decide on idea to pursue, discuss with TA (15 min)
-  - work on mini-project (60 min)
-- 15 minutes: compiling results and images, creating small exhibit of your art and creations!
-- 15 minutes: see-and-share other students’ galleries!
+- Overview and Welcome (5 minutes)
+- Walking through the notebook (30 minutes)
+- Small group sandbox to explore the concepts (1 hour)
+  - explore notebook, play with variables and parameters (10 minutes)
+  - decide on idea to pursue, find group to merge with (5 minutes)
+  - work on mini-project (45 minutes)
+- Compile results and images, create small exhibit of your art and creations! (15 minutes)
+- See-and-share other students’ galleries! (10 minutes)
 
 ### Ideas for mini-projects (questions to explore):
 - What if you add noise to an image and then apply style transfer? How will model interact with different types of objects/ artifacts added to your image?
