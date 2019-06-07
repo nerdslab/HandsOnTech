@@ -28,4 +28,6 @@
 - What happens if you modify only certain color channels in an image? Try filtering different combinations of the R,G,B channels with different filters - what effects does this have on different images?
 - Is there a way to quantify how close the new image is to the style/content images? Which one is it closer to? 
 
+#### Run this notebook in Colaboratory
+**[Click here for instructions](https://docs.google.com/document/d/1ILbefxjt_mY8vE4lt_iqjOldU0poZB4gw9qphEWLOck/edit?usp=sharing)**
 
