@@ -1,9 +1,9 @@
 # Hands-on-Tech (HOT) Machine Learning Module
 
 ### Overview of concepts
-- Image manipulation: Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
-- Image convolution: Show how using different kernels can do interesting things to an image (e.g. blur, edge detection, etc)
-- Style transfer: the aim is to show students how neural networks can transform an input image to be in the style of a certain artist
+- _Image manipulation:_ Show how to use Python to perform some basic image editing (crop, adjust brightness, flip, isolate color channels, etc), as well as introducing noise into an image and then using median filtering to recover the original image.
+- _Image convolution:_ Show how using different kernels can do interesting things to an image (e.g. blur, edge detection, etc)
+- _Style transfer:_ the aim is to show students how neural networks can transform an input image to be in the style of a certain artist
 
 ### Schedule
 - 15 minutes: setup - introduction to data science and machine learning
